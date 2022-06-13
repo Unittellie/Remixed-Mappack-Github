@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "settime", "600" ], [ "removecollectables", "1", "10" ], [ "dialogbox", "mario died of choking", "narrator", "blue" ], [ "disableplayeraim", "everyone" ], [ "disablecontrols", "everyone" ], [ "enablejumping", "everyone" ], [ "waitforinput", "jump", "everyone" ], [ "instantkillplayer", "everyone" ] ],
+    "conditions": [ [ "worldequals", "3" ], [ "levelequals", "1" ], [ "requirecollectables", "1", "10" ] ],
+    "triggers": [ [ "mariotimeless", "005" ] ]
+}
