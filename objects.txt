@@ -4,3 +4,5 @@ fire=1-265-up|true
 blaster=1-303-down|7|up
 1B1=1-199-1B1|white|true|false|false|false
 1B2 pipe=1-199-1B2|white|true|false|false|false,1,16,38:1,1,17-81-1|2|down|big,39
+casylr=1,1,45,47,47:45,67,23,47,47:45,47,23,46,1:45,69,23,47,47:1,1,45,47,47
+flag=102,104,104,104,104,104,104,104,104,104,78

@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "removetime", "1" ], [ "addcoins", "1" ], [ "repeat" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "animationtrigger", "coolio" ] ]
+}
