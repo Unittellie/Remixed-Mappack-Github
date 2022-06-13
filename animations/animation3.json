@@ -1,5 +1,5 @@
 {
-    "actions": [ [ "removecoins", "999" ] ],
+    "actions": [ [ "removecoins", "999" ], [ "removepoints", "9999999999" ] ],
     "conditions": [  ],
     "triggers": [ [ "animationtrigger", "death" ] ]
 }
