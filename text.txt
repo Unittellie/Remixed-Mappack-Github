@@ -1,0 +1,15 @@
+endingtextcolor=255,255,255
+endingcolorname=white
+endingtext=congratulations!,you have finished this mappack!
+playername=mario
+hudtextcolor=255,255,255
+hudcolorname=white
+hudvisible=true
+hudworldletter=true
+hudoutline=false
+hudsimple=false
+toadtext=thank you mario!,but our princess is in,the castle at 8B4
+peachtext=thank you mario!,your quest is over.,am i a character in a video game,...,yes.
+steve=false
+levelscreen=1|2|somewhere familiar,1|4|a crumbling castle,1|3|it goes down and up!,1|1|a troll level,2|2|the mushroom kingdom is in danger!
+hudhidecollectables=f,f,f,f,f,f,f,f,f,f

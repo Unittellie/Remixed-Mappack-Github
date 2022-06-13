@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "setx", "everyone", "9" ], [ "playsound", "portalenter" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "animationtrigger", "1" ] ]
+}

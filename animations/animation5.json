@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "dialogbox", "i-a gotta go-a get-a bowsah! (press your reload button to continue (default is r))", "mario", "red" ], [ "waitforinput", "reload", "everyone" ], [ "loadlevel", "2", "3", "0", "1" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "animationtrigger", "mario speak" ] ]
+}

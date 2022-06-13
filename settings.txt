@@ -1,0 +1,7 @@
+name=super mario bros r
+author=odnetnin
+description=remixed levels
+lives=5
+physics=5
+dropshadow=t
+realtime=t
