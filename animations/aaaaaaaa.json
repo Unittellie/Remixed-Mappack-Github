@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "launchplayer", "everyone", "100", "-12" ], [ "sleep", "0.3" ], [ "launchplayer", "everyone", "100", "-12" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "animationtrigger", "launch" ] ]
+}

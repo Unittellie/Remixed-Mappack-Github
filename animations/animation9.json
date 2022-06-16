@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "removetime", "00.02" ] ],
+    "conditions": [ [ "worldequals", "10" ], [ "levelequals", "1" ] ],
+    "triggers": [ [ "mariotimeless", "11" ] ]
+}

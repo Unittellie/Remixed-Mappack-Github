@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "setplayersize", "8", "everyone" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "animationtrigger", "superstar" ] ]
+}

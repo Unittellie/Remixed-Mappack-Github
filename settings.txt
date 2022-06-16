@@ -1,4 +1,4 @@
-name=super mario bros r
+name=super mario bros4
 author=odnetnin
 description=remixed levels
 lives=5

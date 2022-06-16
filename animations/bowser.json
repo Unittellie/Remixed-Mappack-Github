@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "playmusic", "music/SMG4_SOUND_EFFECTS_-_what_are_you_d_(getmp3.pro).mp3" ], [ "dialogbox", "what are you doing? whats-a going on here?", "mario", "red" ], [ "sleep", "1.87" ], [ "removedialogbox" ], [ "playmusic", "none" ], [ "screenshake", "90" ], [ "setplayersize", "1", "everyone" ], [ "playsound", "pipe" ], [ "dialogbox", "gwahahahahaha!", "bowser", "lime" ], [ "sleep", "3" ], [ "dialogbox", "i've kidnapped peach, and you will never get her back!", "bowser", "lime" ], [ "sleep", "7" ], [ "playerjump", "everyone" ], [ "setplayersize", "2", "everyone" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "animationtrigger", "browser" ] ]
+}

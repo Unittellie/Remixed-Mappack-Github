@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "setnumber", "chances", "=", "5" ] ],
+    "conditions": [ [ "worldequals", "4" ], [ "levelequals", "1" ], [ "sublevelequals", "3" ] ],
+    "triggers": [ [ "mapload" ] ]
+}

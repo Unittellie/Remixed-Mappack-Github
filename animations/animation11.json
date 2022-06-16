@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "sety", "everyone", "44" ], [ "setx", "everyone", "84" ], [ "setx", "everyone", "114" ], [ "sety", "everyone", "2" ] ],
+    "conditions": [ [ "requirecollectables", "1", "1" ] ],
+    "triggers": [ [ "animationtrigger", "coining" ] ]
+}

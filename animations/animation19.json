@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "sety", "everyone", "12" ] ],
+    "conditions": [ [ "worldequals", "4" ], [ "levelequals", "1" ], [ "sublevelequals", "3" ], [ "ifnumber", "chances", ">", "0" ] ],
+    "triggers": [ [ "playerygreater", "19" ] ]
+}

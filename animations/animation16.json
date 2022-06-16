@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "setnumber", "chances", "-", "1" ], [ "setplayersize", "16", "everyone" ] ],
+    "conditions": [ [ "worldequals", "4" ], [ "levelequals", "1" ], [ "sublevelequals", "3" ], [ "ifnumber", "chances", ">", "0" ] ],
+    "triggers": [ [ "playerhurt", "everyone" ] ]
+}

@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "setplayerlight", "0" ], [ "setx", "everyone", "22.5" ], [ "sety", "everyone", "34" ], [ "togglelightsout" ], [ "disablecontrols", "everyone" ], [ "disableplayeraim", "everyone" ], [ "playmusic", "none" ], [ "playsound", "energybounce" ], [ "sleep", "1" ], [ "loadlevelinstant", "4", "1", "2", "1" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "animationtrigger", "dreamportal" ] ]
+}

@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "setplayerlight", "0" ], [ "sleep", "0.5" ], [ "togglelightsout" ] ],
+    "conditions": [ [ "worldequals", "3" ], [ "levelequals", "2" ], [ "sublevelequals", "2" ] ],
+    "triggers": [ [ "mapload" ] ]
+}

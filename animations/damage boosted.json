@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "dialogbox", "nooooooooooooooo!", "bowser", "lime" ], [ "sleep", "3" ], [ "killallenemies" ], [ "removedialogbox" ], [ "sleep", "10" ], [ "setplayerlight", "0" ], [ "togglelightsout" ], [ "dialogbox", "gwahahahahahaha", "dry bowser", "gray" ], [ "sleep", "4" ], [ "dialogbox", "oh no!", "peach and mario", "purple" ], [ "sleep", "3" ], [ "dialogbox", "help me!!!", "peach", "pink" ], [ "sleep", "3" ], [ "nextlevel" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "switchblocktrigger", "4" ] ]
+}

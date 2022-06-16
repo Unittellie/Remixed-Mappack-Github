@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "killplayer", "everyone" ] ],
+    "conditions": [ [ "levelequals", "1" ], [ "worldequals", "4" ], [ "sublevelequals", "1" ] ],
+    "triggers": [ [ "mapload" ] ]
+}

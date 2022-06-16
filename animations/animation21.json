@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "setplayerlight", "-1" ], [ "sety", "everyone", "13" ], [ "setx", "everyone", "17" ], [ "playmusic", "music/Super_Mario_64_Mamma_mia_(getmp3.pro).mp3" ], [ "screenshake", "20" ], [ "togglelightsout" ], [ "sleep", "1.1" ], [ "loadlevelinstant", "4", "2", "1", "1" ] ],
+    "conditions": [  ],
+    "triggers": [ [ "animationtrigger", "awawa" ] ]
+}

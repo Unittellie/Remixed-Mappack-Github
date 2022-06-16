@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "screenshake", "6000" ], [ "dialogbox", "gwahahahaha", "bowser", "lime" ], [ "playmusic", "music/Super_Mario_64_Mamma_mia_(getmp3.pro).mp3" ], [ "sleep", "1" ], [ "playmusic", "castle" ], [ "sleep", "2" ], [ "removedialogbox" ] ],
+    "conditions": [ [ "worldequals", "3" ], [ "levelequals", "4" ] ],
+    "triggers": [ [ "mapload" ] ]
+}
